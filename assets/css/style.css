@@ -3,3 +3,17 @@
 .navbar {
     background-color: #f8f9fa;
 }
+
+/* history */
+
+
+.history-number {
+    font-size: 6rem;
+    font-weight: bold;
+    line-height: 1;
+    margin-top: -40px;
+}
+
+.cheif-minister-container {
+    background-color: #207BC8;
+}
